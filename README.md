@@ -1,4 +1,5 @@
 # 团队介绍
+![成员1--徐永盛](members/origisxu.md)
 
 # 团队Logo
 ## 设计理念
